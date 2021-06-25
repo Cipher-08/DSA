@@ -12,7 +12,7 @@ int onebitcount(int n){
         n=n&(n-1);
         count++;
     }
-            ijygdeeeeeeyuiioeturn count ;
+        count ;
 }
 int main(){
 
